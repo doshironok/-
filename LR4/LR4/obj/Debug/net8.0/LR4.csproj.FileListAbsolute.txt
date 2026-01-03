@@ -1,0 +1,14 @@
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\LR4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\LR4.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\LR4.AssemblyInfo.cs
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\LR4.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\bin\Debug\net8.0\LR4.exe
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\bin\Debug\net8.0\LR4.deps.json
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\bin\Debug\net8.0\LR4.runtimeconfig.json
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\bin\Debug\net8.0\LR4.dll
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\bin\Debug\net8.0\LR4.pdb
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\LR4.dll
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\refint\LR4.dll
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\LR4.pdb
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\LR4.genruntimeconfig.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR4\LR4\obj\Debug\net8.0\ref\LR4.dll

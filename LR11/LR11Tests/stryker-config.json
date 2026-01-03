@@ -1,0 +1,11 @@
+{
+  "stryker-config": {
+    "mutate": [
+      "!**/Program.cs",
+	"!**/IGraphReader.cs",
+	"!**/IGraphWriter.cs",
+	"!**/IncidenceMatrixReader.cs",
+	"!**/AdjacencyMatrixWriter.cs"
+    ]
+  }
+}

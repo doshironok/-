@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B79DA716-C90C-4117-B574-4D71B9959686}|LR4\\LR4.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr4\\lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79DA716-C90C-4117-B574-4D71B9959686}|LR4\\LR4.csproj|solutionrelative:lr4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73A4B327-7E5F-4718-9B30-91AFC1994C1A}|LR4_Tests\\LR4_Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr4\\lr4_tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73A4B327-7E5F-4718-9B30-91AFC1994C1A}|LR4_Tests\\LR4_Tests.csproj|solutionrelative:lr4_tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR4\\LR4_Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LR4_Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR4\\LR4_Tests\\UnitTest1.cs",
+              "RelativeToolTip": "LR4_Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:00:28.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR4\\LR4\\Program.cs",
+              "RelativeDocumentMoniker": "LR4\\Program.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR4\\LR4\\Program.cs",
+              "RelativeToolTip": "LR4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:54:36.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

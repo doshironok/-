@@ -1,0 +1,8 @@
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\bin\Debug\net8.0\CoverletSourceRootsMapping_LR3Test
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\obj\Debug\net8.0\LR3Test.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\obj\Debug\net8.0\LR3Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\obj\Debug\net8.0\LR3Test.gentestingplatformentrypointinputcache.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\obj\Debug\net8.0\LR3Test.genautoregisteredextensionsinputcache.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\obj\Debug\net8.0\LR3Test.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\obj\Debug\net8.0\LR3Test.AssemblyInfo.cs
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\LR3Test\LR3Test\obj\Debug\net8.0\LR3Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LR4/1.0.0": {
+        "dependencies": {
+          "AltCover.Recorder.g": "9.0.0.0"
+        },
+        "runtime": {
+          "LR4.dll": {}
+        }
+      },
+      "AltCover.Recorder.g/9.0.0.0": {
+        "runtime": {
+          "AltCover.Recorder.g.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AltCover.Recorder.g/9.0.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LR4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

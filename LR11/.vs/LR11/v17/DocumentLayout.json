@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\graphtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\graphtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\custsettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\custsettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\listcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\listcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\numconvtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\numconvtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\graphtests_with_nsubstitute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\graphtests_with_nsubstitute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\lr3tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\lr3tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\lr4tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\lr4tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\lr4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\lr4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\customset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\customset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\numberconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\lr3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\lr3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\adjacencymatrixwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\adjacencymatrixwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\graphreadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\graphreadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11tests\\graphtests_with_fluentassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CF0503-DDCC-4227-B7BF-4EE6482825D3}|LR11Tests\\LR11Tests.csproj|solutionrelative:lr11tests\\graphtests_with_fluentassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\igraphreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\igraphreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\igraphwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\igraphwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr11\\lr11\\incidencematrixreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503B03E6-01C7-41FE-8E77-581969A048EB}|LR11\\LR11.csproj|solutionrelative:lr11\\incidencematrixreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustSetTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\CustSetTests.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\CustSetTests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\CustSetTests.cs",
+              "RelativeToolTip": "LR11Tests\\CustSetTests.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv3AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:48:13.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumConvTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\NumConvTests.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\NumConvTests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\NumConvTests.cs",
+              "RelativeToolTip": "LR11Tests\\NumConvTests.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv3IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:47:25.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\ListComparer.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\ListComparer.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\ListComparer.cs",
+              "RelativeToolTip": "LR11Tests\\ListComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:47:20.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphTests.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\GraphTests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphTests.cs",
+              "RelativeToolTip": "LR11Tests\\GraphTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:47:02.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GraphReaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphReaderTests.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\GraphReaderTests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphReaderTests.cs",
+              "RelativeToolTip": "LR11Tests\\GraphReaderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:46:57.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IncidenceMatrixReader.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\IncidenceMatrixReader.cs",
+              "RelativeDocumentMoniker": "LR11\\IncidenceMatrixReader.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\IncidenceMatrixReader.cs",
+              "RelativeToolTip": "LR11\\IncidenceMatrixReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:46:39.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGraphWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\IGraphWriter.cs",
+              "RelativeDocumentMoniker": "LR11\\IGraphWriter.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\IGraphWriter.cs",
+              "RelativeToolTip": "LR11\\IGraphWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:46:33.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomSet.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\CustomSet.cs",
+              "RelativeDocumentMoniker": "LR11\\CustomSet.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\CustomSet.cs",
+              "RelativeToolTip": "LR11\\CustomSet.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:46:28.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdjacencyMatrixWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\AdjacencyMatrixWriter.cs",
+              "RelativeDocumentMoniker": "LR11\\AdjacencyMatrixWriter.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\AdjacencyMatrixWriter.cs",
+              "RelativeToolTip": "LR11\\AdjacencyMatrixWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:46:26.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGraphReader.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\IGraphReader.cs",
+              "RelativeDocumentMoniker": "LR11\\IGraphReader.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\IGraphReader.cs",
+              "RelativeToolTip": "LR11\\IGraphReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:45:36.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\Graph.cs",
+              "RelativeDocumentMoniker": "LR11\\Graph.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\Graph.cs",
+              "RelativeToolTip": "LR11\\Graph.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAcwJwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:45:52.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GraphTests_With_FluentAssertions.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphTests_With_FluentAssertions.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\GraphTests_With_FluentAssertions.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphTests_With_FluentAssertions.cs",
+              "RelativeToolTip": "LR11Tests\\GraphTests_With_FluentAssertions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:45:21.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraphTests_With_NSubstitute.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphTests_With_NSubstitute.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\GraphTests_With_NSubstitute.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\GraphTests_With_NSubstitute.cs",
+              "RelativeToolTip": "LR11Tests\\GraphTests_With_NSubstitute.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAUwOYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:43:13.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LR4Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\LR4Tests.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\LR4Tests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\LR4Tests.cs",
+              "RelativeToolTip": "LR11Tests\\LR4Tests.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2kAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:41:10.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LR3Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\LR3Tests.cs",
+              "RelativeDocumentMoniker": "LR11Tests\\LR3Tests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11Tests\\LR3Tests.cs",
+              "RelativeToolTip": "LR11Tests\\LR3Tests.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAIwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:38:57.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NumberConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\NumberConverter.cs",
+              "RelativeDocumentMoniker": "LR11\\NumberConverter.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\NumberConverter.cs",
+              "RelativeToolTip": "LR11\\NumberConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:34:39.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LR4.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\LR4.cs",
+              "RelativeDocumentMoniker": "LR11\\LR4.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\LR4.cs",
+              "RelativeToolTip": "LR11\\LR4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:33:49.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LR3.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\LR3.cs",
+              "RelativeDocumentMoniker": "LR11\\LR3.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR11\\LR11\\LR3.cs",
+              "RelativeToolTip": "LR11\\LR3.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:33:06.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\lr9\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|solutionrelative:lr9\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\graphlibrarytests\\graphtests_with_nsubstitute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|solutionrelative:graphlibrarytests\\graphtests_with_nsubstitute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\lr9\\adjacencymatrixwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|solutionrelative:lr9\\adjacencymatrixwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\graphlibrarytests\\listcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|solutionrelative:graphlibrarytests\\listcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\graphlibrarytests\\graphtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|solutionrelative:graphlibrarytests\\graphtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\lr9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|solutionrelative:lr9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\graphlibrarytests\\graphreadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|solutionrelative:graphlibrarytests\\graphreadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\lr9\\igraphwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|solutionrelative:lr9\\igraphwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\graphlibrarytests\\graphlibrarytests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{574810F1-8F51-4A27-A59D-E3336AF7076C}|GraphLibraryTests\\GraphLibraryTests.csproj|solutionrelative:graphlibrarytests\\graphlibrarytests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\lr9\\incidencematrixreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|solutionrelative:lr9\\incidencematrixreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|c:\\users\\diana\\desktop\\\u0437\u0443\u0431\u0435\u043D\u043A\u043E\\\u0442\u0438\u043E\u043F\u043E\\lr9\\lr9\\igraphreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A4DB22-0B90-42A1-AC81-E802D6F2B7A4}|LR9\\LR9.csproj|solutionrelative:lr9\\igraphreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\Graph.cs",
+              "RelativeDocumentMoniker": "LR9\\Graph.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\Graph.cs",
+              "RelativeToolTip": "LR9\\Graph.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv4UAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:15:57.366Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\ListComparer.cs",
+              "RelativeDocumentMoniker": "GraphLibraryTests\\ListComparer.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\ListComparer.cs",
+              "RelativeToolTip": "GraphLibraryTests\\ListComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:23:23.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphLibraryTests.csproj",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphLibraryTests.csproj",
+              "RelativeDocumentMoniker": "GraphLibraryTests\\GraphLibraryTests.csproj",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphLibraryTests.csproj",
+              "RelativeToolTip": "GraphLibraryTests\\GraphLibraryTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-02T14:59:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGraphWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\IGraphWriter.cs",
+              "RelativeDocumentMoniker": "LR9\\IGraphWriter.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\IGraphWriter.cs",
+              "RelativeToolTip": "LR9\\IGraphWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:17:37.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGraphReader.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\IGraphReader.cs",
+              "RelativeDocumentMoniker": "LR9\\IGraphReader.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\IGraphReader.cs",
+              "RelativeToolTip": "LR9\\IGraphReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:17:00.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IncidenceMatrixReader.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\IncidenceMatrixReader.cs",
+              "RelativeDocumentMoniker": "LR9\\IncidenceMatrixReader.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\IncidenceMatrixReader.cs",
+              "RelativeToolTip": "LR9\\IncidenceMatrixReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:06:41.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraphTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphTests.cs",
+              "RelativeDocumentMoniker": "GraphLibraryTests\\GraphTests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphTests.cs",
+              "RelativeToolTip": "GraphLibraryTests\\GraphTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:00:20.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GraphReaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphReaderTests.cs",
+              "RelativeDocumentMoniker": "GraphLibraryTests\\GraphReaderTests.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphReaderTests.cs",
+              "RelativeToolTip": "GraphLibraryTests\\GraphReaderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:00:16.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdjacencyMatrixWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\AdjacencyMatrixWriter.cs",
+              "RelativeDocumentMoniker": "LR9\\AdjacencyMatrixWriter.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\AdjacencyMatrixWriter.cs",
+              "RelativeToolTip": "LR9\\AdjacencyMatrixWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:58:55.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphTests_With_NSubstitute.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphTests_With_NSubstitute.cs",
+              "RelativeDocumentMoniker": "GraphLibraryTests\\GraphTests_With_NSubstitute.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\GraphLibraryTests\\GraphTests_With_NSubstitute.cs",
+              "RelativeToolTip": "GraphLibraryTests\\GraphTests_With_NSubstitute.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAIwOYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:55:09.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\Program.cs",
+              "RelativeDocumentMoniker": "LR9\\Program.cs",
+              "ToolTip": "C:\\Users\\Diana\\Desktop\\\u0417\u0443\u0431\u0435\u043D\u043A\u043E\\\u0422\u0438\u041E\u041F\u041E\\LR9\\LR9\\Program.cs",
+              "RelativeToolTip": "LR9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:51:16.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

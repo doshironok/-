@@ -1,0 +1,14 @@
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\bin\Debug\net8.0\BlackBoxTesting.exe
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\bin\Debug\net8.0\BlackBoxTesting.deps.json
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\bin\Debug\net8.0\BlackBoxTesting.runtimeconfig.json
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\bin\Debug\net8.0\BlackBoxTesting.dll
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\bin\Debug\net8.0\BlackBoxTesting.pdb
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\BlackBoxTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\BlackBoxTesting.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\BlackBoxTesting.AssemblyInfo.cs
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\BlackBoxTesting.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\BlackBoxTesting.dll
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\refint\BlackBoxTesting.dll
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\BlackBoxTesting.pdb
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\BlackBoxTesting.genruntimeconfig.cache
+C:\Users\Diana\Desktop\Зубенко\ТиОПО\BlackBoxTesting\BlackBoxTesting\obj\Debug\net8.0\ref\BlackBoxTesting.dll
